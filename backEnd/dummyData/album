@@ -1,0 +1,37 @@
+const album = [
+    {
+    "artist":"G.E.M. 鄧紫棋",
+    "title":"啓示錄(預購限定版2CD)",
+    "uniCode":"5419730255",
+    "releaseDate":"2022/09/30",
+    "商品簡介":""
+    },
+
+    {
+    "artist":"ONE OK ROCK",    
+    "title":"Luxury Disease 奢侈惡疾 (國際盤)",
+    "uniCode":"7567863118",
+    "releaseDate":"2022/09/09",
+    "商品簡介":""
+    },
+
+    {
+    "artist":"JAY CHOU 周杰倫",    
+    "title":"Greatest Works Of Art 最偉大的作品",
+    "uniCode":"19658745922",
+    "releaseDate":"2022/07/15",
+    "商品簡介":""
+    },
+
+    {
+    "artist":"LADY GAGA 女神卡卡",    
+    "title":"Chromatica ＜Japan Tour Edition＞ 初回限定盤 (CD+DVD)",
+    "uniCode":"UICS9180",
+    "releaseDate":"UICS9180",
+    "商品簡介":""
+    },
+
+
+
+
+]
