@@ -1,0 +1,42 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+   
+}
+
+.member-navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;  
+    justify-content: space-between;  
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+}
+
+.new-list{
+    display: flex;
+    flex-direction: row;
+    align-items: center;  
+    justify-content: space-between;
+}
+
+.main-list{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;  
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
