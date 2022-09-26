@@ -3,15 +3,11 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    
+    font-size: 24px;
    
 }
-
-.member-navbar {
-    display: flex;
-    flex-direction: row;
-    align-items: center;  
-    justify-content: space-between;  
+.search-box {
+    font-size: 24px;
 }
 
 .main {
@@ -39,4 +35,12 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
+}
+
+
+
+.right-navbar {
+    display: flex;
+    justify-content: space-between; 
+    font-size: 24px;
 }
